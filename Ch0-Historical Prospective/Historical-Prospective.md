@@ -4,3 +4,14 @@
 1. Mainframe Systems:
 <br>&emsp;&emsp;是最早期的作業系統，最早的電腦（Mainframe）昂貴、體積大，而且也只能用來管理專一的事情；
 <br>Mainframe 一開始是使用一種叫做 Batch 的技術，將程式打在卡片上，讓它可以在電腦上面執行，此時的電腦一次也只能處理一個程式，要等這個動作結束之後才能接續執行下個指令，因此稱為 Batch
+
+- 作業流程：
+<br>&emsp;&emsp;・One job at a time
+
+<br>&emsp;&emsp;・No interaction between users and jobs
+
+<br>&emsp;&emsp;・CPU is often idle
+
+<br>
+- 缺點:
+<br>&emsp;&emsp;
