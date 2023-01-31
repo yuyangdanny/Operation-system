@@ -19,3 +19,11 @@
 
 
 <br>&emsp;&emsp;有了 Multi-programming 之後，使用者發現電腦的執行效率雖然變高了，但因為沒有互動，在本質上電腦還是做跟之前一樣的事情。為了改善使用者體驗，電腦科技開始往互動功能發展，發展出 Time-sharing 的概念：CPU 捕捉到使用者的 I/O 即時作出回應，讓使用者產生互動感，同時利用 CPU 計算速度很快的特性，快速在每個程式間切換執行緒，讓使用者感覺電腦正在處理複數指令，產生多人同時使用電腦的感覺。
+
+
+- Time-sharing 技術需要維護的功能：
+<br>・Virtual Memory
+
+<br>&emsp;&emsp;・File System and disk management
+
+<br>&emsp;&emsp;・Process synchronization and deadlock
